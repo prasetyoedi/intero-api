@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Ibuprofen",
+        "brand_name": "Advil",
+        "disease": "Pain Relief"
+    },
+    {
+        "id": 2,
+        "name": "Ibuprofen",
+        "brand_name": "Motrin",
+        "disease": "Pain Relief"
+    }
+]
